@@ -1,0 +1,3 @@
+*.javac
+*.pyc
+node_modules
